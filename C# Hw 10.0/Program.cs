@@ -1,4 +1,4 @@
-﻿namespace CollectionsHw
+﻿namespace C_Hw_10._0
 {
     internal class Program
     {
